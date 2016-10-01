@@ -155,4 +155,3 @@ int MainWindow::scan(const QString &dir)
 
     return nb_errors;
 }
-
