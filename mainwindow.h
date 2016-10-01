@@ -5,7 +5,6 @@
 #include <QLabel>
 #include <QTextEdit>
 #include <QPushButton>
-//#include <QProgressBar>
 
 class MainWindow : public QWidget
 {
