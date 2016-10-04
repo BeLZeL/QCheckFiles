@@ -7,6 +7,7 @@
 #include <QMessageBox>
 #include <QApplication>
 #include <QThread>
+#include <QUrl>
 #include <QDesktopServices>
 
 MainWindow::MainWindow(QWidget *parent) :
